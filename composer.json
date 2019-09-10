@@ -1,0 +1,7 @@
+{
+    "name": "mail",
+    "description": "Try to send a mail.",
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
