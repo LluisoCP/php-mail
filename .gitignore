@@ -1,2 +1,5 @@
 vendor/
 vars.php
+base.php
+mail_data.php
+.env
